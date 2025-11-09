@@ -1,0 +1,10 @@
+img2vec-pytorch
+torchvision
+pillow
+numpy
+scikit-learn
+opencv-python
+torch
+optuna
+xgboost
+matplotlib
